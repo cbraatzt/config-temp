@@ -1,3 +1,0 @@
-bank-account-service:
-	minBalance: 101
-	maxBalance: 10001
